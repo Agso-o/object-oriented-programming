@@ -15,7 +15,7 @@ import org.junit.Test;
 
 public class TestesEstoqueResumido {
 	
-	// ------------------------------Pesquisar -> Produto e Produto Perecivel----------------------------------------
+	// ----------------------------Pesquisar -> Produto e Produto Perecivel----------------------------------------
 	@Test
 	public void pesquisarProdutosJaIncluidos() {
 		Estoque estoque = new Estoque();
